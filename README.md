@@ -15,3 +15,9 @@ FROM emptable
 WHERE language = 'Love'
 ;
 ```
+
+### QUIZ
+- Create a db with the name datapros
+- Create a two tables(student, payment) inside this aforementioned db.
+- Populate the student table with the fields: id and firstname and lastname
+- Do the same for the payment table- payment_id and amount
