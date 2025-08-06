@@ -19,10 +19,10 @@ WHERE language = 'Love'
 ### QUIZ
 - Import the datasets set to the group to the already created db
 - Rename the name of the tables to;
-  Bajaj
-  Employeetable
-  customers
-  payments
-  salesdate
+  Bajaj,
+  Employeetable,
+  customers,
+  payments,
+  salesdate,
   hrdata
 - Also go into each table and rename the fields appropriately
