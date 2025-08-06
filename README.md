@@ -17,7 +17,12 @@ WHERE language = 'Love'
 ```
 
 ### QUIZ
-- Create a db with the name datapros
-- Create a two tables(student, payment) inside this aforementioned db.
-- Populate the student table with the fields: id and firstname and lastname
-- Do the same for the payment table- payment_id and amount
+- Import the datasets set to the group to the already created db
+- Rename the name of the tables to;
+  Bajaj
+  Employeetable
+  customers
+  payments
+  salesdate
+  hrdata
+- Also go into each table and rename the fields appropriately
