@@ -17,15 +17,15 @@ WHERE language = 'Love'
 ```
 
 ### Task
-1.Design and implement a schema for a E-commerce platform with the following tables
+Design and implement a schema for a E-commerce platform with the following tables
 using appropriate data types and constraints (e.g primary, forign,null):
-* Customers
+1. Customers
 - customer_id (primary key)
 - name
 - phone_number
 - address (street, city)
 
-2.Products
+2. Products
 - product_id (primary key)
 - product_name
 - category
