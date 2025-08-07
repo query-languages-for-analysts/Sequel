@@ -20,37 +20,37 @@ WHERE language = 'Love'
 1.Design and implement a schema for a E-commerce platform with the following tables
 using appropriate data types and constraints (e.g primary, forign,null):
 * Customers
-> customer_id (primary key)
-> name
-> phone_number
-> address (street, city)
+- customer_id (primary key)
+- name
+- phone_number
+- address (street, city)
 
 2.Products
-> product_id (primary key)
-> product_name
-> category
-> price
-> stock_quantity
+- product_id (primary key)
+- product_name
+- category
+- price
+- stock_quantity
 
 3. Orders
-order_id (primary key)
-customer_id(foreign key)
-order_date
-total_amount
+- order_id (primary key)
+- customer_id(foreign key)
+- order_date
+- total_amount
 
 4. order_items
-> order_item_id (primary)
-> order_id foreignkey referencing orders)
-> product_id (foreign key)
-> quantity
-> price
+- order_item_id (primary)
+- order_id foreignkey referencing orders)
+- product_id (foreign key)
+- quantity
+- price
 
 2. Tasks
 * populate the tables with at least:
-10 customers
-10 products
-15 orders
-20 order items
+- 10 customers
+- 10 products
+- 15 orders
+- 20 order items
 
 Write queries to perform the following operation
 1. Read what is in all the tables.
