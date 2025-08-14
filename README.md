@@ -66,23 +66,14 @@ Task 3:
 - Find the top 3 best-selling products.
 
 -  QUIZZ for the weekend
--  Which district and city report the single highest population figure recorded?
-2.
-Identify the city and district with the smallest documented population count.
-3.
-List cities that exceed 100,000 in population, and arrange them by size in increasing order.
-4.
-Find all cities with fewer than 2,000 inhabitants. Display them in descending order of population.
-5.
-Which districts and their corresponding cities fall within a mid-sized population range of 150,000 to 200,000?
-6.
-Determine the third most populated city and its district.
-7.
-Retrieve the names, districts, and populations of cities located in the country with code 'NGA'.
-8.
-Which major cities in Nigeria, the USA, and Spain have a population over 1 million?
-9.
-List all cities whose names begin with the letter ‘F’, along with their district and population details.
-10.
-Find cities ending with the letter ‘A’ and display their district and population information.
+1. Which district and city report the single highest population figure recorded?
+2. Identify the city and district with the smallest documented population count.
+3. List cities that exceed 100,000 in population, and arrange them by size in increasing order.
+4. Find all cities with fewer than 2,000 inhabitants. Display them in descending order of population.
+5. Which districts and their corresponding cities fall within a mid-sized population range of 150,000 to 200,000?
+6. Determine the third most populated city and its district.
+7. Retrieve the names, districts, and populations of cities located in the country with code 'NGA'.
+8. Which major cities in Nigeria, the USA, and Spain have a population over 1 million?
+9. List all cities whose names begin with the letter ‘F’, along with their district and population details.
+10.Find cities ending with the letter ‘A’ and display their district and population information.
 Assignment 2
