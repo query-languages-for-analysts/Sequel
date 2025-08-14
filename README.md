@@ -75,5 +75,20 @@ Task 3:
 7. Retrieve the names, districts, and populations of cities located in the country with code 'NGA'.
 8. Which major cities in Nigeria, the USA, and Spain have a population over 1 million?
 9. List all cities whose names begin with the letter ‘F’, along with their district and population details.
-10.Find cities ending with the letter ‘A’ and display their district and population information.
-Assignment 2
+10. Find cities ending with the letter ‘A’ and display their district and population information.
+11. Which languages are spoken in countries with over 500,000 people, and what are the country names?
+12. Identify all countries where English is an official language, and display their populations as well.
+13. Which countries have English, Spanish, or French listed as spoken languages, and what are their respective populations?
+14. Provide the names and districts of cities alongside the continents they belong to.
+15. List cities and their districts that are located in countries whose names start with ‘S’.
+16. Which regions contain the cities listed in the database? Return both city names and their associated regions.
+17. Show all countries that operate under a government classified as a ‘Republic’.
+
+- Using the Employeetable
+18. What is the average salary for each department?
+19. How many employees work in each department?
+20. Which job title appears most frequently across the company?
+21. Show employees ordered by hire date, most recent first.
+22. Who are the top 5 highest-paid employees?
+23. Who are the 10 lowest-paid employees?
+24. Display the 6th to 10th employees ordered by hire date.
