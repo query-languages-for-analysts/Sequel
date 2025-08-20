@@ -92,3 +92,9 @@ Task 3:
 22. Who are the top 5 highest-paid employees?
 23. Who are the 10 lowest-paid employees?
 24. Display the 6th to 10th employees ordered by hire date.
+
+## Assignment
+1. What day of the week are vehicles most often and least often stolen?
+2. What types of vehicles are most often and least often stolen?
+3. What is the average age of the vehicles that are stolen? Does this vary based on the vehicle type?
+4. Which regions have the most and least number of stolen vehicles? What are the characteristics of the regions?
