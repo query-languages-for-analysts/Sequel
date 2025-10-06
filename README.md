@@ -17,6 +17,8 @@ WHERE language = 'Love'
 ```
 
 ### Task
+First tasks is to type your name in the bench work and submit it
+
 Design and implement a schema for a E-commerce platform with the following tables
 using appropriate data types and constraints (e.g primary, forign,null):
 1. Customers
