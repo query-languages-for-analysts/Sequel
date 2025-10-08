@@ -16,10 +16,14 @@ WHERE language = 'Love'
 ;
 ```
 
-### Task
-* Create a new schema called 'Tasks'
-* Create a tables 'Design','Operations' in the created database.
+### Task DONE
+* Create a new schema called 'Tasks' 
+* Create a tables 'Design','Operations' in the created database. 
 * Show the records in the World database under the city table.
 * Show the fields name, continent and governmentform in the country table.
 
-
+### Task Pending
+* Provide fields; jobtitle and salary to the table guys from the class example.
+* The jobtitle are (data analyst, data scientist), populate for the records however you want.
+* The field salary should be in a way that it could take a null value for some of the records.
+* The salary field should be of 6 figures with indication for the kobo too.
