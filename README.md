@@ -74,6 +74,7 @@ Write queries to perform the following operation
 5. Retrieve all orders made by a specific customer.
 
 ### Task PENDING
+#### Using the HR data
 1. Which departments show the most diversity in terms of race and gender combinations?
 2. Identify job roles where the gender distribution is highly unbalanced.
 3. What is the distribution of races across remote versus on-site employees?
