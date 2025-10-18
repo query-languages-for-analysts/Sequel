@@ -28,7 +28,7 @@ WHERE language = 'Love'
 * The field salary should be in a way that it could take a null value for some of the records.
 * The salary field should be of 6 figures with indication for the kobo too.
 
-### Task Pending
+### Task DONE
 First tasks is to type your name in the bench work and submit it
 
 Design and implement a schema for a E-commerce platform with the following tables
@@ -72,3 +72,15 @@ Write queries to perform the following operation
 3. Update the stock quantity of a product after a purchase.
 4. Delete an order from the database.
 5. Retrieve all orders made by a specific customer.
+
+### Task PENDING
+1. Which departments show the most diversity in terms of race and gender combinations?
+2. Identify job roles where the gender distribution is highly unbalanced.
+3. What is the distribution of races across remote versus on-site employees?
+4. How many employees aged 30 or younger work in Engineering or Product teams?
+5. Which cities employ the highest number of Hispanic or Latino staff?
+6. Which department has retained the highest number of employees hired before 2010?
+7. Identify job titles that are exclusive to only one location or city.
+8. Which state has the widest range of job titles represented among its employees?
+9. Find the average age of employees in each department.
+10. Which departments have more female employees than male employees?
