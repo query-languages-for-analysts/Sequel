@@ -73,7 +73,7 @@ Write queries to perform the following operation
 4. Delete an order from the database.
 5. Retrieve all orders made by a specific customer.
 
-### Task PENDING
+### Task PENDING FOR SOME
 #### Using the HR data
 1. Which departments show the most diversity in terms of race and gender combinations?
 2. Identify job roles where the gender distribution is highly unbalanced.
@@ -85,3 +85,9 @@ Write queries to perform the following operation
 8. Which state has the widest range of job titles represented among its employees?
 9. Find the average age of employees in each department.
 10. Which departments have more female employees than male employees?
+
+### Task Pending Using World db
+1. Identify all countries where English is an official language, and display their populations as well.
+2. Which countries have English, Spanish, or French listed as spoken languages, and what are their respective populations?
+3. Provide the names and districts of cities alongside the continents they belong to.
+4. List cities and their districts that are located in countries whose names start with ‘S’.
